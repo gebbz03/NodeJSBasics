@@ -1,10 +1,12 @@
 {
-  "name": "NodeJSBasics",
+  "name": "nodejsbasics",
   "version": "1.0.0",
   "description": "\"# NodeJSBasics\"",
   "main": "app.js",
   "dependencies": {
-    "loadash": "^1.0.0"
+    "express": "^4.17.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +17,7 @@
     "url": "git+https://github.com/gebbz03/NodeJSBasics.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gebb Ebero",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gebbz03/NodeJSBasics/issues"

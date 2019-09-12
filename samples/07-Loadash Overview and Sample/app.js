@@ -48,6 +48,6 @@ console.log(arr4);
 
 myArr.forEach(function(e){
     if(_.endsWith(e,'e')){
-        console.log(e); 
+        console.log(e);
     }
 });

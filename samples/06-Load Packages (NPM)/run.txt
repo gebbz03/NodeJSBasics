@@ -1,5 +1,11 @@
 TERMINAL
 
--npm install loadash
+-npm install lodash
 
 -npm init --yes
+
+-npm init   //to create package.json file in folder
+
+-npm install // install or reinstall all dependencies
+
+-npm i -g lodash  //-g global  -- i install
