@@ -1,0 +1,5 @@
+TERMINAL
+
+-npm install loadash
+
+-npm init --yes

@@ -1,0 +1,9 @@
+TERMINAL
+
+-node app.js
+
+Go to browser type 
+
+'localhost:8080/index.html' = Display Data 200
+
+'localhost:8080/hfghfgh.html' Not Found 400

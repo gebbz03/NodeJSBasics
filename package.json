@@ -1,0 +1,24 @@
+{
+  "name": "NodeJSBasics",
+  "version": "1.0.0",
+  "description": "\"# NodeJSBasics\"",
+  "main": "app.js",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gebbz03/NodeJSBasics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gebbz03/NodeJSBasics/issues"
+  },
+  "homepage": "https://github.com/gebbz03/NodeJSBasics#readme"
+}

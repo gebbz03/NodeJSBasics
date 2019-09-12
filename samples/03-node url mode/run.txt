@@ -1,0 +1,8 @@
+TERMINAL
+
+-node app.js
+
+Go to browser type 
+'localhost:8080/gebbz'
+'localhost:8080/foo'
+anything
