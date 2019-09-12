@@ -1,0 +1,6 @@
+------TERMINAL COMMAND------
+
+-node test.js
+
+-node app.js
+Go to browser type localhost:8080
