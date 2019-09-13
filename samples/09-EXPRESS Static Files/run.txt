@@ -1,0 +1,8 @@
+TERMINAL
+
+
+-node app.js
+
+Go to browser type
+'localhost:8080' or
+'localhost:8080/3' 

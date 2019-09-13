@@ -1,0 +1,15 @@
+TERMINAL
+
+
+-npm install --save socket.io   
+
+//Composed of 2 parts
+//SERVER that integrates with(or mounts on) on the NODE JS HTTP Server: socket.io
+//CLIENT library that loads on the browser side: socket.io-client
+//https://socket.io/docs/emit-cheatsheet/
+
+-nodemon app.js
+-localhost:8080
+
+
+

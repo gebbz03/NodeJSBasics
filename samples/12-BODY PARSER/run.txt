@@ -1,0 +1,9 @@
+TERMINAL
+
+
+-npm install body-parser   //Middleware
+
+-nodemon app.js
+-localhost:8080
+
+

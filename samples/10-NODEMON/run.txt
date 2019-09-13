@@ -1,0 +1,11 @@
+TERMINAL
+
+
+-npm install -g nodemon  //No need to restart the app by using nodemon
+
+Example:
+
+--nodemon app.js  
+instead of
+--node app.js
+

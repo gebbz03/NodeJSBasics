@@ -1,0 +1,10 @@
+TERMINAL
+
+
+
+--nodemon app.js  
+
+Go to browser then type
+'localhost:8080'
+
+

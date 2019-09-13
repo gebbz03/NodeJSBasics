@@ -1,3 +1,8 @@
 TERMINAL
 
 -npm i express --save
+
+
+Go to browser type  
+'localhost:8080' or
+'localhost:8080/foo'
